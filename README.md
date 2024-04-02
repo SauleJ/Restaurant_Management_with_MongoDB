@@ -10,4 +10,5 @@ This project demonstrates a simple restaurant management system implemented usin
 - Calculate the total amount spent by a client
 - Calculate a waiter's total revenue and display their served customers and orders
 
+![Alt text](image_url)
 
